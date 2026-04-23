@@ -1,0 +1,40 @@
+.modern-footer {
+    background-color: #151e30;
+    /* Deep, modern dark background */
+    color: #fff;
+    padding: 60px 0 20px;
+    border-top-left-radius: 40px;
+    /* Top rounded corners */
+    border-top-right-radius: 40px;
+}
+
+.footer-links li {
+    margin-bottom: 12px;
+}
+
+.footer-links a {
+    color: #edf0f4;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #4f46e5;
+    /* Modern primary color */
+    padding-left: 8px;
+    /* Smooth shift to the right on hover (for LTR layout) */
+}
+.text-muted {
+    color: #bbb !important;
+}
+.footer-contact p {
+    color: #ffffff;
+}
+.footer-bottom {
+    margin-top: 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+    font-size: 0.9rem;
+    color: #bbb;
+}
+
