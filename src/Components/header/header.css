@@ -1,5 +1,4 @@
 .modern-navbar {
-    /* Glassmorphism effect */
     background: rgba(255, 255, 255, 0.85) !important;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -21,10 +20,8 @@
 .modern-navbar .nav-link:hover,
 .modern-navbar .nav-link.active {
     color: #4f46e5 !important;
-    /* Modern primary color */
 }
 
-/* Animated underline on hover */
 .modern-navbar .nav-link::after {
     content: '';
     position: absolute;

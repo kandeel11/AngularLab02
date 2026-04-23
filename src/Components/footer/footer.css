@@ -1,10 +1,8 @@
 .modern-footer {
     background-color: #151e30;
-    /* Deep, modern dark background */
     color: #fff;
     padding: 60px 0 20px;
     border-top-left-radius: 40px;
-    /* Top rounded corners */
     border-top-right-radius: 40px;
 }
 
@@ -20,9 +18,7 @@
 
 .footer-links a:hover {
     color: #4f46e5;
-    /* Modern primary color */
     padding-left: 8px;
-    /* Smooth shift to the right on hover (for LTR layout) */
 }
 .text-muted {
     color: #bbb !important;
